@@ -20,8 +20,8 @@
         "constructor-super": "warn",
         "valid-typeof": "warn",
         "semi": "warn",
-        "react/jsx-uses-vars": 1,
-        "react/react-in-jsx-scope": 1
+        "react/jsx-uses-vars": "error",
+        "react/react-in-jsx-scope": "error"
     },
     "plugins": [
         "react"
